@@ -1,0 +1,13 @@
+{
+  "Enemy": [
+    {
+      "Path": "G:/VoNhuCong/Training/TowerDefence/Resources/Quai/3/",
+      "EnemyWalkName": "3_enemies_1_walk_",
+      "EnemyJumpName": "3_enemies_1_jump_",
+      "EnemyAttack": "3_enemies_1_attack_",
+      "EnemyDie": "3_enemies_1_die_",
+      "EnemyRun": "3_enemies_1_run_"
+    }
+
+  ]
+}
